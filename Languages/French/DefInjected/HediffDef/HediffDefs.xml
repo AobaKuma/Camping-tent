@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TENT_ComfyBothbutlesser.label>sous une tente</TENT_ComfyBothbutlesser.label>
+  <TENT_ComfyBothbutlesser.description>Après tout, elle peut au moins garder la température</TENT_ComfyBothbutlesser.description>
+
+  <TENT_ComfyBoth.label>Tente confortable</TENT_ComfyBoth.label>
+  <TENT_ComfyBoth.description>La technologie textile avancée rends la tente confortable à n'importe quelle température</TENT_ComfyBoth.description>
+
+  <TENT_ComfyCold.label>Tente chaude</TENT_ComfyCold.label>
+  <TENT_ComfyCold.description>Un sac de couhage est inclus dans la tente</TENT_ComfyCold.description>
+
+  <TENT_ComfyHot.label>Tente fraiche</TENT_ComfyHot.label>
+  <TENT_ComfyHot.description>Il fait frais dans cette tente.</TENT_ComfyHot.description>
+
+
+</LanguageData>

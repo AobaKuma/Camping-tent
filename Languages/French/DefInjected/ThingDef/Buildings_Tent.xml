@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tent -->
+
+  <Canopy.label>Canopée</Canopy.label>
+  <Canopy.description>C'est mieux que rien si vous avez besoin de passer la nuit à l'extérieur.</Canopy.description>
+
+  <Teepee.label>Tipi</Teepee.label>
+  <Teepee.description>C'est ainsi que vivaient nos ancêtres.</Teepee.description>
+
+  <Tent.label>Tente</Tent.label>
+  <Tent.description>Une simple tente - quelques bâtons et un morceau de tissu. Qu'est-ce qui pourrait mal se passer?</Tent.description>
+
+  <VikingTent.label>Tente de viking</VikingTent.label>
+  <VikingTent.description>Une tente avec un cadre en bois renforcé est courante dans les régions froides.</VikingTent.description>
+
+  <ModernTent.label>Tente moderne</ModernTent.label>
+  <ModernTent.description>Une tente fabriquée avec une technologie moderne qui ne la rend pas plus lourde qu'un sac de couchage.</ModernTent.description>
+
+
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Canopybuff.stages.0.label>Sous une canopée</Canopybuff.stages.0.label>
+  <Canopybuff.stages.0.description>Au moins j'ai un endroit pour dormir.</Canopybuff.stages.0.description>
+
+  <Teepeebuff.stages.0.label>Sous un tipi</Teepeebuff.stages.0.label>
+  <Teepeebuff.stages.0.description>Comme autrefois!</Teepeebuff.stages.0.description>
+
+  <Tentbuff.stages.0.label>Sous une tente</Tentbuff.stages.0.label>
+  <Tentbuff.stages.0.description>C'est pas mal.</Tentbuff.stages.0.description>
+
+  <VikingTentbuff.stages.0.label>Sous une tente de viking</VikingTentbuff.stages.0.label>
+  <VikingTentbuff.stages.0.description>il fait chaud dans la tente.</VikingTentbuff.stages.0.description>
+
+  <ModernTentbuff.stages.0.label>Sous une tente moderne</ModernTentbuff.stages.0.label>
+  <ModernTentbuff.stages.0.description>C'est très confortable.</ModernTentbuff.stages.0.description>
+
+
+</LanguageData>

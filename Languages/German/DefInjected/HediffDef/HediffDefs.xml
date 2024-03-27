@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+<TENT_ComfyBothbutlesser.label>In einem Zelt</TENT_ComfyBothbutlesser.label>
+<TENT_ComfyBothbutlesser.description>Wenigstens bleibt es warm.</TENT_ComfyBothbutlesser.description>
+
+<TENT_ComfyBoth.label>Komfortables Zelt</TENT_ComfyBoth.label>
+<TENT_ComfyBoth.description>Textile Technologie hält komfortabel die Temperatur im inneren.</TENT_ComfyBoth.description>
+
+<TENT_ComfyCold.label>Warmes Zelt</TENT_ComfyCold.label>
+<TENT_ComfyCold.description>Kuschliges Bettzeug ist im Zelt inkludiert.</TENT_ComfyCold.description>
+
+<TENT_ComfyHot.label>Kaltes Zelt</TENT_ComfyHot.label>
+<TENT_ComfyHot.description>Im Zelt ist es kühl.</TENT_ComfyHot.description>
+
+</LanguageData>
+
+
+
+ 
+
+  
+  
+ 
+  
+ 
