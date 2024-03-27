@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{70E83D66-83A4-491F-B372-4E97FD68672E}|tent\\tent.csproj|solutionrelative:tent\\harmonypatches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70E83D66-83A4-491F-B372-4E97FD68672E}|tent\\tent.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\camping_tent\\source\\tent\\compassignbedhediff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70E83D66-83A4-491F-B372-4E97FD68672E}|tent\\tent.csproj|solutionrelative:tent\\compassignbedhediff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70E83D66-83A4-491F-B372-4E97FD68672E}|tent\\tent.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\camping_tent\\source\\tent\\compatibilitypatches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E83D66-83A4-491F-B372-4E97FD68672E}|tent\\tent.csproj|solutionrelative:tent\\compatibilitypatches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{70E83D66-83A4-491F-B372-4E97FD68672E}|tent\\tent.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\camping_tent\\source\\tent\\hediffcomp_removeupongettingup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70E83D66-83A4-491F-B372-4E97FD68672E}|tent\\tent.csproj|solutionrelative:tent\\hediffcomp_removeupongettingup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E83D66-83A4-491F-B372-4E97FD68672E}|tent\\tent.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\camping_tent\\source\\tent\\compassignbedhediff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E83D66-83A4-491F-B372-4E97FD68672E}|tent\\tent.csproj|solutionrelative:tent\\compassignbedhediff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{70E83D66-83A4-491F-B372-4E97FD68672E}|tent\\tent.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\camping_tent\\source\\tent\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{70E83D66-83A4-491F-B372-4E97FD68672E}|tent\\tent.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\camping_tent\\source\\tent\\tentmodextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70E83D66-83A4-491F-B372-4E97FD68672E}|tent\\tent.csproj|solutionrelative:tent\\tentmodextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70E83D66-83A4-491F-B372-4E97FD68672E}|tent\\tent.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\camping_tent\\source\\tent\\compatibilitypatches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70E83D66-83A4-491F-B372-4E97FD68672E}|tent\\tent.csproj|solutionrelative:tent\\compatibilitypatches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "TentModExtension.cs",
               "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\camping_tent\\source\\tent\\TentModExtension.cs",
               "RelativeDocumentMoniker": "tent\\TentModExtension.cs",
@@ -50,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Main.cs",
               "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\camping_tent\\source\\tent\\Main.cs",
               "RelativeDocumentMoniker": "tent\\Main.cs",
@@ -70,11 +70,12 @@
               "RelativeToolTip": "tent\\HediffComp_RemoveUponGettingUp.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T20:56:03.602Z"
+              "WhenOpened": "2024-03-24T20:56:03.602Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "CompAssignBedHediff.cs",
               "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\camping_tent\\source\\tent\\CompAssignBedHediff.cs",
               "RelativeDocumentMoniker": "tent\\CompAssignBedHediff.cs",
@@ -92,22 +93,23 @@
               "RelativeDocumentMoniker": "tent\\HarmonyPatches.cs",
               "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\camping_tent\\source\\tent\\HarmonyPatches.cs",
               "RelativeToolTip": "tent\\HarmonyPatches.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAADoAAABxAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-24T20:53:11.968Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "CompatibilityPatches.cs",
               "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\camping_tent\\source\\tent\\CompatibilityPatches.cs",
               "RelativeDocumentMoniker": "tent\\CompatibilityPatches.cs",
               "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\camping_tent\\source\\tent\\CompatibilityPatches.cs",
               "RelativeToolTip": "tent\\CompatibilityPatches.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAC8AAAALAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwC8AAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T20:52:27.75Z"
+              "WhenOpened": "2024-03-24T20:52:27.75Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -31,7 +31,16 @@ namespace Tent
             if (___pawn?.Map == null || ___pawn?.RaceProps?.Humanlike != true) return true;
             return !(___pawn?.CurrentBed()?.def?.HasModExtension<TentModExtension>() == true);
         }
-    } 
+    }
+    [HarmonyPatch(typeof(PawnRenderer), nameof(PawnRenderer.RenderPawnAt), new[] { typeof(Vector3), typeof(Rot4?), typeof(bool)})]
+    public class PawnRenderer_RenderPawnAt
+    {
+        public static bool Prefix(Pawn ___pawn)
+        {
+            if (___pawn?.Map == null || ___pawn?.RaceProps?.Humanlike != true) return true;
+            return !(___pawn?.CurrentBed()?.def?.HasModExtension<TentModExtension>() == true);
+        }
+    }
 
     [HarmonyPatch(typeof(Pawn_MindState), "MindStateTick")]
     public class Pawn_MindState_MindStateTick
