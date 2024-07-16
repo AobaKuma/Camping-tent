@@ -35,3 +35,23 @@ C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\camping_tent\source\
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\camping_tent\source\tent\bin\Debug\UnityEngine.UI.dll
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\camping_tent\source\tent\bin\Debug\Unity.Burst.Unsafe.dll
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\camping_tent\source\tent\obj\Debug\tent.csproj.Up2Date
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\tent\bin\Debug\Tent.dll
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\tent\bin\Debug\Tent.pdb
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\tent\bin\Debug\0Harmony.dll
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\tent\bin\Debug\Assembly-CSharp.dll
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\tent\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\tent\bin\Debug\NAudio.dll
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\tent\bin\Debug\NVorbis.dll
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\tent\bin\Debug\com.rlabrecque.steamworks.net.dll
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\tent\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\tent\bin\Debug\Unity.Burst.dll
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\tent\bin\Debug\Unity.Mathematics.dll
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\tent\bin\Debug\Unity.TextMeshPro.dll
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\tent\bin\Debug\ISharpZipLib.dll
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\tent\bin\Debug\UnityEngine.UI.dll
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\tent\bin\Debug\Unity.Burst.Unsafe.dll
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\tent\obj\Debug\tent.csproj.AssemblyReference.cache
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\tent\obj\Debug\tent.csproj.CoreCompileInputs.cache
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\tent\obj\Debug\tent.csproj.Up2Date
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\tent\obj\Debug\Tent.dll
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\tent\obj\Debug\Tent.pdb

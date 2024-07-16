@@ -23,15 +23,15 @@ namespace Tent
             CompatibilityPatches.ExecuteCompatibilityPatches(harmony);
         }
     }
-    [HarmonyPatch(typeof(PawnRenderer), nameof(PawnRenderer.RenderCache), new[] { typeof(Rot4), typeof(float), typeof(Vector3), typeof(bool), typeof(bool), typeof(bool), typeof(bool), typeof(IReadOnlyDictionary<Apparel, Color>), typeof(Color?), typeof(bool)})]
-    public class PawnRenderer_RenderCache
-    {
-        public static bool Prefix(Pawn ___pawn)
-        {
-            if (___pawn?.Map == null || ___pawn?.RaceProps?.Humanlike != true) return true;
-            return !(___pawn?.CurrentBed()?.def?.HasModExtension<TentModExtension>() == true);
-        }
-    }
+    //[HarmonyPatch(typeof(PawnRenderer), nameof(PawnRenderer.RenderCache), new[] { typeof(Rot4), typeof(float), typeof(Vector3), typeof(bool), typeof(bool), typeof(bool), typeof(bool), typeof(IReadOnlyDictionary<Apparel, Color>), typeof(Color?), typeof(bool)})]
+    //public class PawnRenderer_RenderCache
+    //{
+    //    public static bool Prefix(Pawn ___pawn)
+    //    {
+    //        if (___pawn?.Map == null || ___pawn?.RaceProps?.Humanlike != true) return true;
+    //        return !(___pawn?.CurrentBed()?.def?.HasModExtension<TentModExtension>() == true);
+    //    }
+    //}
     [HarmonyPatch(typeof(PawnRenderer), nameof(PawnRenderer.RenderPawnAt), new[] { typeof(Vector3), typeof(Rot4?), typeof(bool)})]
     public class PawnRenderer_RenderPawnAt
     {
