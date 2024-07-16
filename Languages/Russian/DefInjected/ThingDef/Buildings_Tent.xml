@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tent -->
+
+  <Canopy.label>навес</Canopy.label>
+  <Canopy.description>Это лучше, чем ничего, если нужно переночевать под открытым небом.</Canopy.description>
+
+  <Teepee.label>вигвам</Teepee.label>
+  <Teepee.description>Так жили наши предки.</Teepee.description>
+
+  <Tent.label>палатка</Tent.label>
+  <Tent.description>Простая палатка - несколько палок и кусок ткани. Что может пойти не так?</Tent.description>
+
+  <VikingTent.label>северная палатка</VikingTent.label>
+  <VikingTent.description>Палатка с усиленным деревянным каркасом - обычное дело для холодных регионов.</VikingTent.description>
+
+  <ModernTent.label>современная палатка</ModernTent.label>
+  <ModernTent.description>Палатка, сделанная с использованием современных технологий, которые делают ее не тяжелее спального мешка.</ModernTent.description>
+
+
+</LanguageData>

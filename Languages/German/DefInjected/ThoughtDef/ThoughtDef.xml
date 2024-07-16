@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Canopybuff.stages.0.label>Schlief unter einer Überdachung</Canopybuff.stages.0.label>
+  <Canopybuff.stages.0.description>Wenigstens hatte ich einen Platz zum Schlafen.</Canopybuff.stages.0.description>
+
+  <Teepeebuff.stages.0.label>Schlief in einem Teepee</Teepeebuff.stages.0.label>
+  <Teepeebuff.stages.0.description>Genau wie früher!</Teepeebuff.stages.0.description>
+
+  <Tentbuff.stages.0.label>Schlief in einem Zelt</Tentbuff.stages.0.label>
+  <Tentbuff.stages.0.description>Es war nicht schlecht.</Tentbuff.stages.0.description>
+
+  <VikingTentbuff.stages.0.label>Schlief in einem Vikingerzelt</VikingTentbuff.stages.0.label>
+  <VikingTentbuff.stages.0.description>Im Zelt war es warm.</VikingTentbuff.stages.0.description>
+
+  <ModernTentbuff.stages.0.label>Schlief in einem modernen Zelt</ModernTentbuff.stages.0.label>
+  <ModernTentbuff.stages.0.description>Es war sehr bequem.</ModernTentbuff.stages.0.description>
+
+
+</LanguageData>

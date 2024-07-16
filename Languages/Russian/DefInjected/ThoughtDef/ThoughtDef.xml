@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Canopybuff.stages.0.label>спал под навесом</Canopybuff.stages.0.label>
+  <Canopybuff.stages.0.description>По крайней мере мне было где спать.</Canopybuff.stages.0.description>
+
+  <Teepeebuff.stages.0.label>спал в вигваме</Teepeebuff.stages.0.label>
+  <Teepeebuff.stages.0.description>Прямо как в старину!</Teepeebuff.stages.0.description>
+
+  <Tentbuff.stages.0.label>спал в палатке</Tentbuff.stages.0.label>
+  <Tentbuff.stages.0.description>Это было неплохо.</Tentbuff.stages.0.description>
+
+  <VikingTentbuff.stages.0.label>спал в северной палатке</VikingTentbuff.stages.0.label>
+  <VikingTentbuff.stages.0.description>В палатке было тепло.</VikingTentbuff.stages.0.description>
+
+  <ModernTentbuff.stages.0.label>спал в современной палатке</ModernTentbuff.stages.0.label>
+  <ModernTentbuff.stages.0.description>Это было весьма комфортно.</ModernTentbuff.stages.0.description>
+
+
+</LanguageData>

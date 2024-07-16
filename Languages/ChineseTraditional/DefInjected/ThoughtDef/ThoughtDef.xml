@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Canopybuff.stages.0.label>睡在遮雨棚下</Canopybuff.stages.0.label>
+  <Canopybuff.stages.0.description>至少有個遮雨的地方</Canopybuff.stages.0.description>
+
+  <Teepeebuff.stages.0.label>睡在游牧帳篷裡</Teepeebuff.stages.0.label>
+  <Teepeebuff.stages.0.description>睡在裡面的感覺真不錯</Teepeebuff.stages.0.description>
+
+  <Tentbuff.stages.0.label>睡在帳篷裡</Tentbuff.stages.0.label>
+  <Tentbuff.stages.0.description>睡在裡面的感覺真不錯</Tentbuff.stages.0.description>
+
+  <VikingTentbuff.stages.0.label>睡在維京帳篷裡</VikingTentbuff.stages.0.label>
+  <VikingTentbuff.stages.0.description>睡在裡面的感覺真不錯</VikingTentbuff.stages.0.description>
+
+  <ModernTentbuff.stages.0.label>睡在舒適的帳篷中</ModernTentbuff.stages.0.label>
+  <ModernTentbuff.stages.0.description>就跟在家裡一樣!</ModernTentbuff.stages.0.description>
+
+
+</LanguageData>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tent -->
+
+  <Canopy.label>Überdachung</Canopy.label>
+  <Canopy.description>Es ist besser als Nichts, wenn die Nacht im Freien verbracht werden muss.</Canopy.description>
+
+  <Teepee.label>Teepee</Teepee.label>
+  <Teepee.description>Genau wie unsere Vorfahren...</Teepee.description>
+
+  <Tent.label>Zelt</Tent.label>
+  <Tent.description>Ein einfaches Zelt - ein paar Stöcke und ein Stück Stoff. Was könnte schiefgehen?</Tent.description>
+
+  <VikingTent.label>Vikingerzelt</VikingTent.label>
+  <VikingTent.description>Ein Zelt mit einem verstärkten Holzrahmen. Ist in kalten Regionen üblich.</VikingTent.description>
+
+  <ModernTent.label>Modernes Zelt</ModernTent.label>
+  <ModernTent.description>Ein Zelt gebaut mit moderner Technologie, das es nicht schwerer macht als einen Schlafsack.</ModernTent.description>
+
+
+</LanguageData>

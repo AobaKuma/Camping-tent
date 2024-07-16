@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TENT_ComfyBothbutlesser.label>简陋的帐篷</TENT_ComfyBothbutlesser.label>
+  <TENT_ComfyBothbutlesser.description>再怎么说他至少还能保持点温度</TENT_ComfyBothbutlesser.description>
+  <TENT_ComfyBoth.label>舒适的帐篷</TENT_ComfyBoth.label>
+  <TENT_ComfyBoth.description>感谢工业科技带来的先进纺织技术让帐篷无论在什么温度下都很舒适</TENT_ComfyBoth.description>
+  <TENT_ComfyCold.label>温暖的帐篷</TENT_ComfyCold.label>
+  <TENT_ComfyCold.description>虽然有点闷但是至少他很保暖</TENT_ComfyCold.description>
+  <TENT_ComfyHot.label>凉爽的帐篷</TENT_ComfyHot.label>
+  <TENT_ComfyHot.description>这个帐篷里面挺凉爽的</TENT_ComfyHot.description>
+</LanguageData>

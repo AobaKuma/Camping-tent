@@ -1,0 +1,14 @@
+D:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\camping_tent\source\CompGiveThought\CompGiveThought\bin\Release\CompGiveThought.dll
+D:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\camping_tent\source\CompGiveThought\CompGiveThought\bin\Release\CompGiveThought.pdb
+D:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\camping_tent\source\CompGiveThought\CompGiveThought\bin\Release\Assembly-CSharp.dll
+D:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\camping_tent\source\CompGiveThought\CompGiveThought\bin\Release\NAudio.dll
+D:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\camping_tent\source\CompGiveThought\CompGiveThought\bin\Release\NVorbis.dll
+D:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\camping_tent\source\CompGiveThought\CompGiveThought\bin\Release\Assembly-CSharp-firstpass.dll
+D:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\camping_tent\source\CompGiveThought\CompGiveThought\bin\Release\Unity.TextMeshPro.dll
+D:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\camping_tent\source\CompGiveThought\CompGiveThought\bin\Release\ISharpZipLib.dll
+D:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\camping_tent\source\CompGiveThought\CompGiveThought\bin\Release\UnityEngine.UI.dll
+D:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\camping_tent\source\CompGiveThought\CompGiveThought\obj\Release\CompGiveThought.csproj.AssemblyReference.cache
+D:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\camping_tent\source\CompGiveThought\CompGiveThought\obj\Release\CompGiveThought.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\camping_tent\source\CompGiveThought\CompGiveThought\obj\Release\CompGiveThought.csproj.CopyComplete
+D:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\camping_tent\source\CompGiveThought\CompGiveThought\obj\Release\CompGiveThought.dll
+D:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\camping_tent\source\CompGiveThought\CompGiveThought\obj\Release\CompGiveThought.pdb

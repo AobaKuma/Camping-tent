@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TENT_ComfyBothbutlesser.label>簡陋的帳篷</TENT_ComfyBothbutlesser.label>
+  <TENT_ComfyBothbutlesser.description>再怎麼說他至少還能保持點溫度</TENT_ComfyBothbutlesser.description>
+
+  <TENT_ComfyBoth.label>舒適的帳篷</TENT_ComfyBoth.label>
+  <TENT_ComfyBoth.description>感謝工業科技帶來的先進紡織技術讓帳篷無論在什麼溫度下都很舒適</TENT_ComfyBoth.description>
+
+  <TENT_ComfyCold.label>溫暖的帳篷</TENT_ComfyCold.label>
+  <TENT_ComfyCold.description>雖然有點悶但是至少他很保暖</TENT_ComfyCold.description>
+
+  <TENT_ComfyHot.label>涼爽的帳篷</TENT_ComfyHot.label>
+  <TENT_ComfyHot.description>這個帳篷裏面挺涼爽的</TENT_ComfyHot.description>
+
+
+</LanguageData>

@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\camping_tent\\source\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70E83D66-83A4-491F-B372-4E97FD68672E}|tent\\tent.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\camping_tent\\source\\tent\\harmonypatches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E83D66-83A4-491F-B372-4E97FD68672E}|tent\\tent.csproj|solutionrelative:tent\\harmonypatches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E83D66-83A4-491F-B372-4E97FD68672E}|tent\\tent.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\camping_tent\\source\\tent\\compatibilitypatches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E83D66-83A4-491F-B372-4E97FD68672E}|tent\\tent.csproj|solutionrelative:tent\\compatibilitypatches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E83D66-83A4-491F-B372-4E97FD68672E}|tent\\tent.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\camping_tent\\source\\tent\\hediffcomp_removeupongettingup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E83D66-83A4-491F-B372-4E97FD68672E}|tent\\tent.csproj|solutionrelative:tent\\hediffcomp_removeupongettingup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E83D66-83A4-491F-B372-4E97FD68672E}|tent\\tent.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\camping_tent\\source\\tent\\compassignbedhediff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E83D66-83A4-491F-B372-4E97FD68672E}|tent\\tent.csproj|solutionrelative:tent\\compassignbedhediff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E83D66-83A4-491F-B372-4E97FD68672E}|tent\\tent.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\camping_tent\\source\\tent\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E83D66-83A4-491F-B372-4E97FD68672E}|tent\\tent.csproj|solutionrelative:tent\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E83D66-83A4-491F-B372-4E97FD68672E}|tent\\tent.csproj|C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\camping_tent\\source\\tent\\tentmodextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E83D66-83A4-491F-B372-4E97FD68672E}|tent\\tent.csproj|solutionrelative:tent\\tentmodextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TentModExtension.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\camping_tent\\source\\tent\\TentModExtension.cs",
+              "RelativeDocumentMoniker": "tent\\TentModExtension.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\camping_tent\\source\\tent\\TentModExtension.cs",
+              "RelativeToolTip": "tent\\TentModExtension.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T20:55:46.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\camping_tent\\source\\tent\\Main.cs",
+              "RelativeDocumentMoniker": "tent\\Main.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\camping_tent\\source\\tent\\Main.cs",
+              "RelativeToolTip": "tent\\Main.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T20:56:07.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HediffComp_RemoveUponGettingUp.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\camping_tent\\source\\tent\\HediffComp_RemoveUponGettingUp.cs",
+              "RelativeDocumentMoniker": "tent\\HediffComp_RemoveUponGettingUp.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\camping_tent\\source\\tent\\HediffComp_RemoveUponGettingUp.cs",
+              "RelativeToolTip": "tent\\HediffComp_RemoveUponGettingUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T20:56:03.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompAssignBedHediff.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\camping_tent\\source\\tent\\CompAssignBedHediff.cs",
+              "RelativeDocumentMoniker": "tent\\CompAssignBedHediff.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\camping_tent\\source\\tent\\CompAssignBedHediff.cs",
+              "RelativeToolTip": "tent\\CompAssignBedHediff.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAUwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T20:55:53.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HarmonyPatches.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\camping_tent\\source\\tent\\HarmonyPatches.cs",
+              "RelativeDocumentMoniker": "tent\\HarmonyPatches.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\camping_tent\\source\\tent\\HarmonyPatches.cs",
+              "RelativeToolTip": "tent\\HarmonyPatches.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T20:53:11.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompatibilityPatches.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\camping_tent\\source\\tent\\CompatibilityPatches.cs",
+              "RelativeDocumentMoniker": "tent\\CompatibilityPatches.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\camping_tent\\source\\tent\\CompatibilityPatches.cs",
+              "RelativeToolTip": "tent\\CompatibilityPatches.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwC8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T20:52:27.75Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

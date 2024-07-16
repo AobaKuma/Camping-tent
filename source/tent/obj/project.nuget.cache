@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6HwpbB6euoyrnevVEdxKpyZrwwvlUOIccZPfwwzuWrwbea+EimnhqsP5sdLSFpmWAxn75HEMKkd2ubXiqCfWsw==",
+  "success": true,
+  "projectFilePath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\camping_tent\\source\\tent\\tent.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sakil\\.nuget\\packages\\lib.harmony\\2.1.0\\lib.harmony.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

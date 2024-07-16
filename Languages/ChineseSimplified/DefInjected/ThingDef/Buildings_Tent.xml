@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Canopy.label>遮雨棚</Canopy.label>
+  <Canopy.description>简陋的遮雨棚,当你只能睡这个时候该对还能有个能遮雨的地方感到满足.</Canopy.description>
+  <Teepee.label>游牧帐篷</Teepee.label>
+  <Teepee.description>游牧民族所用的木制帐篷,里面相当凉爽.</Teepee.description>
+  <Tent.label>帐篷</Tent.label>
+  <Tent.description>由几根木棒和一块布组成的帐篷,应该不会出什么问题吧?</Tent.description>
+  <VikingTent.label>维京帐篷</VikingTent.label>
+  <VikingTent.description>常见于寒冷地区有着木制框架能够用厚实毛皮当作外帐的帐篷,可以抵御寒冷.</VikingTent.description>
+  <ModernTent.label>现代帐篷</ModernTent.label>
+  <ModernTent.description>用现代工业科技制作的帐篷,相比早期帐篷不止更轻,需要的材料也更少.</ModernTent.description>
+  <FoldingTent.label>折叠帐篷</FoldingTent.label>
+  <FoldingTent.description>一个轻便的帐篷，很轻但有点不舒適。</FoldingTent.description>
+  <CampingLuggages.label>野营行李</CampingLuggages.label>
+  <CampingLuggages.description>一些行李可以让附近的帐篷更舒適一点。必须直接靠近帐篷的頂部。在同一个帐篷附近放置一个以上的行李是没有效果的。</CampingLuggages.description>
+  <WoodPile.label>柴堆</WoodPile.label>
+  <WoodPile.description>一堆木头。给附近所有的帐篷一点舒适奖励。在同一帐篷附近放置多个柴堆是没有效果的。</WoodPile.description>
+</LanguageData>
