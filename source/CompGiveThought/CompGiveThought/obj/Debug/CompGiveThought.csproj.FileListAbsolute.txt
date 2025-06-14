@@ -30,3 +30,23 @@ C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\camping_tent\source\
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\camping_tent\source\CompGiveThought\CompGiveThought\obj\Debug\CompGive.DCC15E2A.Up2Date
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\camping_tent\source\CompGiveThought\CompGiveThought\obj\Debug\CompGiveThought.dll
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\camping_tent\source\CompGiveThought\CompGiveThought\obj\Debug\CompGiveThought.pdb
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\CompGiveThought\CompGiveThought\bin\Debug\CompGiveThought.dll
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\CompGiveThought\CompGiveThought\bin\Debug\CompGiveThought.pdb
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\CompGiveThought\CompGiveThought\bin\Debug\Assembly-CSharp.dll
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\CompGiveThought\CompGiveThought\bin\Debug\NAudio.dll
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\CompGiveThought\CompGiveThought\bin\Debug\NVorbis.dll
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\CompGiveThought\CompGiveThought\bin\Debug\Unity.Collections.dll
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\CompGiveThought\CompGiveThought\bin\Debug\Unity.Burst.dll
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\CompGiveThought\CompGiveThought\bin\Debug\Unity.Mathematics.dll
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\CompGiveThought\CompGiveThought\bin\Debug\com.rlabrecque.steamworks.net.dll
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\CompGiveThought\CompGiveThought\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\CompGiveThought\CompGiveThought\bin\Debug\Unity.TextMeshPro.dll
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\CompGiveThought\CompGiveThought\bin\Debug\ISharpZipLib.dll
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\CompGiveThought\CompGiveThought\bin\Debug\UnityEngine.UI.dll
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\CompGiveThought\CompGiveThought\bin\Debug\Unity.Collections.LowLevel.ILSupport.dll
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\CompGiveThought\CompGiveThought\bin\Debug\Unity.Burst.Unsafe.dll
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\CompGiveThought\CompGiveThought\obj\Debug\CompGiveThought.csproj.AssemblyReference.cache
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\CompGiveThought\CompGiveThought\obj\Debug\CompGiveThought.csproj.CoreCompileInputs.cache
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\CompGiveThought\CompGiveThought\obj\Debug\CompGive.DCC15E2A.Up2Date
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\CompGiveThought\CompGiveThought\obj\Debug\CompGiveThought.dll
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\CompGiveThought\CompGiveThought\obj\Debug\CompGiveThought.pdb

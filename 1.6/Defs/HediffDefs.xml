@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+
+  <HediffDef Name="TENTBase" Abstract = "True">
+    <hediffClass>HediffWithComps</hediffClass>
+    <comps>
+      <li Class="HediffCompProperties_DisappearsOnDeath"/>
+      <li>
+        <compClass>Tent.HediffComp_RemoveUponGettingUp</compClass>
+      </li>
+    </comps>
+  </HediffDef>
+
+  <HediffDef ParentName="TENTBase">
+    <defName>TENT_ComfyBothbutlesser</defName>
+    <label>in a tent</label>
+    <isBad>false</isBad>
+    <everCurableByItem>false</everCurableByItem>
+    <defaultLabelColor>(20, 255, 20)</defaultLabelColor>
+    <description>at least it keeps temperature.</description>
+    <stages>
+      <li>
+        <statOffsets>
+          <ComfyTemperatureMin>-10</ComfyTemperatureMin>
+          <ComfyTemperatureMax>10</ComfyTemperatureMax>
+        </statOffsets>
+      </li>
+    </stages>
+  </HediffDef>
+
+  <HediffDef ParentName="TENTBase">
+    <defName>TENT_ComfyBoth</defName>
+    <label>Comfy tent</label>
+    <isBad>false</isBad>
+    <everCurableByItem>false</everCurableByItem>
+    <defaultLabelColor>(20, 255, 20)</defaultLabelColor>
+    <description>Textile technology keeps temperature comfy inside.</description>
+    <stages>
+      <li>
+        <statOffsets>
+          <ComfyTemperatureMin>-20</ComfyTemperatureMin>
+          <ComfyTemperatureMax>20</ComfyTemperatureMax>
+        </statOffsets>
+      </li>
+    </stages>
+  </HediffDef>
+  
+  <HediffDef ParentName="TENTBase">
+    <defName>TENT_ComfyCold</defName>
+    <label>Warm tent</label>
+    <isBad>false</isBad>
+    <everCurableByItem>false</everCurableByItem>
+    <defaultLabelColor>(20, 255, 20)</defaultLabelColor>
+    <description>furry bedroll are included inside the tent.</description>
+    <stages>
+      <li>
+        <statOffsets>
+          <ComfyTemperatureMin>-20</ComfyTemperatureMin>
+        </statOffsets>
+      </li>
+    </stages>
+  </HediffDef>
+  
+  <HediffDef ParentName="TENTBase">
+    <defName>TENT_ComfyHot</defName>
+    <label>Cool tent</label>
+    <isBad>false</isBad>
+    <everCurableByItem>false</everCurableByItem>
+    <defaultLabelColor>(20, 255, 20)</defaultLabelColor>
+    <description>it is cool inside the tent.</description>
+    <stages>
+      <li>
+        <statOffsets>
+          <ComfyTemperatureMax>20</ComfyTemperatureMax>
+        </statOffsets>
+      </li>
+    </stages>
+  </HediffDef>
+
+</Defs>

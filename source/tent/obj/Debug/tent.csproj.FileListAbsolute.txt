@@ -55,3 +55,8 @@ D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\tent\obj\Debug\tent.
 D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\tent\obj\Debug\tent.csproj.Up2Date
 D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\tent\obj\Debug\Tent.dll
 D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\tent\obj\Debug\Tent.pdb
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\tent\bin\Debug\Unity.Collections.dll
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\tent\bin\Debug\Unity.Collections.LowLevel.ILSupport.dll
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\tent\bin\Debug\UnityEngine.CoreModule.dll
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\tent\bin\Debug\UnityEngine.dll
+D:\Steam\steamapps\common\RimWorld\Mods\Camping tent\source\tent\bin\Debug\UnityEngine.TextRenderingModule.dll

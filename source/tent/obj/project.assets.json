@@ -124,6 +124,7 @@
       "outputPath": "D:\\Steam\\steamapps\\common\\RimWorld\\Mods\\Camping tent\\source\\tent\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
+      "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],

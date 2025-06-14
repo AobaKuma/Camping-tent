@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+  
+  <ThoughtDef>
+    <defName>Canopybuff</defName>
+    <durationDays>0.05</durationDays>
+    <validWhileDespawned>true</validWhileDespawned>
+    <stages>
+      <li>
+        <label>Resting in Canopy</label>
+        <description>at least i have somewhere to sleep</description>
+        <baseMoodEffect>-3</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef>
+    <defName>Teepeebuff</defName>
+    <durationDays>0.05</durationDays>
+    <validWhileDespawned>true</validWhileDespawned>
+    <stages>
+      <li>
+        <label>Resting in Teepee</label>
+        <description>i hope i could have a house to live in.</description>
+        <baseMoodEffect>-1</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+    <ThoughtDef>
+    <defName>Tentbuff</defName>
+    <durationDays>0.05</durationDays>
+    <validWhileDespawned>true</validWhileDespawned>
+    <stages>
+      <li>
+        <label>Resting in Tent</label>
+        <description>That feels nice,but i hope i could have a house to live in.</description>
+        <baseMoodEffect>-1</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+    <ThoughtDef>
+    <defName>VikingTentbuff</defName>
+    <durationDays>0.05</durationDays>
+    <validWhileDespawned>true</validWhileDespawned>
+    <stages>
+      <li>
+        <label>Resting in Tent</label>
+        <description>Its' warm inside the tent,but i hope i could have a house to live in.</description>
+        <baseMoodEffect>0</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+    <ThoughtDef>
+    <defName>ModernTentbuff</defName>
+    <durationDays>0.05</durationDays>
+    <validWhileDespawned>true</validWhileDespawned>
+    <stages>
+      <li>
+        <label>Resting in a nice Tent</label>
+        <description>That feels nice, but i hope i could have a house to live in.</description>
+        <baseMoodEffect>0</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  
+</Defs>

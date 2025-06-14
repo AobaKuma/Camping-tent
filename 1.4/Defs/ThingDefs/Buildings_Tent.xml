@@ -630,7 +630,7 @@
 
 <ThingDef ParentName="FurnitureBase">
     <defName>WoodPile</defName>
-    <label>WoodPile</label>
+    <label>Wood Pile</label>
     <description>A wood pile that makes nearby tents a bit more comfortable. Placing more than one near the same tent has no effect.</description>
     <graphicData>
       <texPath>Things/Building/WoodPile/WoodPile</texPath>
